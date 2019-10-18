@@ -3,6 +3,7 @@
   margin: 10px;
   border: 4px solid blue;
   padding: 6px;
+  background-color: skyblue;
 }
 
 h3 {
@@ -26,13 +27,13 @@ ul {
 }
 
 .r img {
-  width: 200px;
+  width: 300px;
   height: 200px;
   float: left;
 }
 
 .c img {
-  width: 200px;
+  width: 300px;
   height: 200px;
   float: right;
 }
