@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+#contact {
+  text-align: right;
+}
