@@ -14,3 +14,19 @@ ul {
 #contact {
   text-align: right;
 }
+
+.digital li p a {
+  background-color: yellow;
+  font-style: italic;
+  font-weight: 200;
+}
+
+.r {
+  width: .2px;
+  float: left;
+}
+
+.c {
+  width: 5px;
+  float: right;
+}
