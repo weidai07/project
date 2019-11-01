@@ -12,7 +12,7 @@ This website shows my knowledge gained through Epicodus after the first week of 
 
 * Click the following link to visit my first website
 * The link is provided in the following line
-* https://github.com/weidai07/project
+* https://weidai07.github.io/project/ 
 
 #### _Technologies Used_
 
@@ -22,4 +22,4 @@ This website shows my knowledge gained through Epicodus after the first week of 
 
 ##### _License_
 
-Copyright @ WD 2019 
+Copyright @ WD 2019
